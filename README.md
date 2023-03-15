@@ -16,6 +16,7 @@ Bento Cake adalah sebuah sistem informasi untuk pemesanan Bento Cake berbasis we
 
 ## Installation
 - XAMPP : https://www.apachefriends.org/download.html
+- GIT : https://git-scm.com/downloads
 
 untuk menjalankan aplikasi bento cake bisa clone repository agar mendapatkan source code
 ```sh
