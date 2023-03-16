@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Apps Bento Cake
+# Web Bento Cake
 Bento Cake adalah sebuah sistem informasi untuk pemesanan Bento Cake berbasis website
 
 ## Features
@@ -20,7 +20,7 @@ Bento Cake adalah sebuah sistem informasi untuk pemesanan Bento Cake berbasis we
 
 untuk menjalankan aplikasi bento cake bisa clone repository agar mendapatkan source code
 ```sh
-git clone https://github.com/mizzcode/cake
+git clone https://github.com/mizzcode/form-order-bentocake
 ```
 cara nya : 
 - buka text editor favorit kalian, kalau saya Visual Studio Code
@@ -31,14 +31,14 @@ cara nya :
 - Masuk ke Folder htdocs di XAMPP lalu klik menu Terimal > New Terminal
 
 ![image](https://user-images.githubusercontent.com/101040281/221125133-a83bf113-b965-4e20-8891-cf0894957294.png)
-- Pada Terminal ketik perintah ``` git clone https://github.com/mizzcode/cake ```
+- Pada Terminal ketik perintah ``` git clone https://github.com/mizzcode/form-order-bentocake ```
 
 - Lalu buka aplikasi XAMPP untuk menjalankan Web Server Apache agar source code PHP nya bisa berjalan.
 
 ![image](https://user-images.githubusercontent.com/101040281/221123221-87d746ab-371f-4fd3-a429-f22bde4058aa.png)
 
 - Tulis di Web Browser : ``` http://localhost/ ```
-- Selamat! Aplikasi Bento Cake Berhssil di Install dan siap digunakan.
+- Selamat! Web Bento Cake Berhasil di Install dan siap digunakan.
 
 ## Snapshot atau Gambar 📸
 
